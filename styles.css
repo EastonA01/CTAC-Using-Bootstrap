@@ -1,0 +1,14 @@
+.bg-primary{
+    background-color: gray;
+}
+
+.btn{
+    color:grey; 
+    border-color: darkgreen; 
+    --bs-btn-hover-bg: gray;
+    background-color: none;
+}
+
+.btn-outline-info{
+    --bs-btn-hover-border-color: darkgreen;
+}
